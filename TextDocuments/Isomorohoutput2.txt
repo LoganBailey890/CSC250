@@ -1,0 +1,25 @@
+Exact: 
+ 01234: mates aedor eiruw
+010: gag yay tot
+011: egg add foo
+012: sap ate bar eat fit
+0112: look meet took seer seep
+000111222: aaabbbzzz bbbaaazzz
+012210102: abzzbabaz bazzababz
+00: aa bb
+0100021130: cacccdaabc cdcccaddbc dcdddbccad bdbbbaddcb
+0102310012: bdbcadbbdc babcdabbac cacdbaccad bcbadcbbca
+0100231120: abaadcbbda dcddabccad
+
+Lose:
+ 11111: mates aedor eiruw
+12: gag egg add foo yay tot
+111: sap ate bar eat fit
+112: look meet took seer seep
+333: aaabbbzzz bbbaaazzz abzzbabaz bazzababz
+2: aa bb
+1135: cacccdaabc cdcccaddbc dcdddbccad bdbbbaddcb
+1234: bdbcadbbdc abaadcbbda babcdabbac cacdbaccad dcddabccad cacccbaadb bcbadcbbca
+
+NonIso: 
+aaa fear warrior cacccbaadb bbcdcbcbdd 

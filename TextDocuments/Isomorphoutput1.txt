@@ -1,0 +1,13 @@
+Exact: 
+ 010: gag yay tot
+011: egg add foo
+012: sap ate bar eat fit
+0112: look meet took seer seep
+
+Lose:
+ 12: gag egg add foo yay tot
+111: sap ate bar eat fit
+112: look meet took seer seep
+
+NonIso: 
+aaa fear mates 
